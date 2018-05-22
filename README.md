@@ -7,7 +7,7 @@ Internship at dMACQ Software Private Lmitied, 2014-2015
 * My first attempt at learning the Laravel framework for PHP
 * An eCommerce-like system to buy sell stuff
 
-## Technolgies?
+## Technologies?
 * PHP (Laravel v4)
 * MySQL
 * HTML
